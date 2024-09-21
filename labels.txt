@@ -1,0 +1,25 @@
+0 Apple-Apple_Scrab 
+1 Apple-Back_Rot
+2 Apple-Healthy
+3 Cherry-Healthy
+4 Cherry-Powdery_mildew
+5 Corn-Healthy
+6 Corn-Northern_Leaf_Blight
+7 Grape-Black_rot
+8 Grape-Healthy
+9 Corn-Common_Rust
+10 Grape-Black_Measles
+11 Orange-Haunglongbing
+12 Peach-Bacterial_Spot
+13 Peach-Healthy
+14 PepperBell-Bacterial_Spot
+15 PepperBell-Healthy
+16 Potato-Early_Blight
+17 Potato-Late_Blight
+18 Potato-Healthy
+19 Strawberry-Healthy
+20 Strawberry-LeafScorch
+21 Tomato-Healthy
+22 Tomato-LeafMold
+23 Tomato-LateBlight
+24 Not- A-Crop
